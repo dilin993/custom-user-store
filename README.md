@@ -1,2 +1,3 @@
 # custom-user-store
-Custom JDBC User Store Manager for WSO2 IS
+
+This implements a custom JDBC user store manager. 
